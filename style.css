@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(241, 227, 153);
+}
+
+h1{
+    font-family: cursive, sans-serif;
+    font-size: 60px;
+}
+
+p{
+    text-align: justify;
+}
+
+.href-color{
+    color: red;
+}
